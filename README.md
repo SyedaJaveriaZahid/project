@@ -36,5 +36,3 @@ Smiler aims to save time and effort in molecular research, providing reliable an
 ⚠️ Caution for Beginners:
 
 -RDKit in Jupyter: Smiler uses RDKit for molecular data processing. If running this project in Jupyter Notebook, ensure that the Jupyter environment is properly configured to support RDKit. Failure to do so may result in errors during execution.
-
--Code Errors Before GUI: Some cells in the pre-GUI code may produce errors due to adjustments made for GitHub upload (e.g., reducing the number of cells and focusing on key functions). These errors are harmless and do not affect the functionality of the main tool. Users can safely ignore them.
