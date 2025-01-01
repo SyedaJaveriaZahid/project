@@ -10,7 +10,13 @@ Key Features:
 
 -Molecular Feature Extraction: Computes properties such as molecular weight and LogP.
 
--Visualization: Displays molecular structures and prediction confidence scores.
+-Visualization: 
+
+--Displays molecular structures and prediction confidence scores.
+
+--View 2D structures of SMILES strings.
+
+--Download 3D structures for further analysis.
 
 -Batch Processing: Handles up to 500 molecules efficiently.
 
